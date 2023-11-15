@@ -1,0 +1,75 @@
+{
+	"folders": [
+		{
+			"path": "channels"
+		},
+		{
+			"path": "closures"
+		},
+		{
+			"path": "error"
+		},
+		{
+			"path": "goroutines"
+		},
+		{
+			"path": "interfaceTest"
+		},
+		{
+			"path": "jsonunmarshal"
+		},
+		{
+			"path": "map"
+		},
+		{
+			"path": "pointer"
+		},
+		{
+			"path": "randomnumber"
+		},
+		{
+			"path": "reciver-func"
+		},
+		{
+			"path": "structData"
+		},
+		{
+			"path": "summation1"
+		},
+		{
+			"path": "validation"
+		},
+		{
+			"path": "generics"
+		},
+		{
+			"path": "json"
+		},
+		{
+			"path": "casttype"
+		},
+		{
+			"path": "go_facebooktest"
+		},
+		{
+			"path": "jsonapigoogle"
+		},
+		{
+			"path": "slice"
+		},
+		{
+			"path": "aonymous_func"
+		},
+		{
+			"path": "time"
+		},
+		{
+			"path": "switch"
+		},
+		{
+			"path": "regex"
+		}
+	],
+
+	"settings": {}
+}

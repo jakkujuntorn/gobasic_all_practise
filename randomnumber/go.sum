@@ -1,0 +1,6 @@
+github.com/Pallinder/go-randomdata v1.2.0 h1:DZ41wBchNRb/0GfsePLiSwb0PHZmT67XY00lCDlaYPg=
+github.com/Pallinder/go-randomdata v1.2.0/go.mod h1:yHmJgulpD2Nfrm0cR9tI/+oAgRqCQQixsA8HyRZfV9Y=
+github.com/fractalbach/fractalnet v0.0.0-20180903105958-adc953aff8bb h1:V7ZE/qEZTkjpxusKlhOfozLlyibpvRhftPfBXrZ33QA=
+github.com/fractalbach/fractalnet v0.0.0-20180903105958-adc953aff8bb/go.mod h1:p11lH02t0S86x/0i0mOo51LMO38F8bg0Rq6JpZqj3O0=
+github.com/google/uuid v1.3.1 h1:KjJaJ9iWZ3jOFZIf1Lqf4laDRCasjl0BCmnEGxkdLb4=
+github.com/google/uuid v1.3.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
